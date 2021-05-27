@@ -1,0 +1,12 @@
+##################
+# Backend config #
+# copy this file and rename it to be config.yml and set the username/passpord
+##################
+
+neo4j:
+  username:
+  password:
+  host: nrg.inf.ed.ac.uk
+  ports:
+    bolt: 7687
+    http: 7474

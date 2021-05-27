@@ -1,0 +1,12 @@
+##################
+# Backend config #
+# copy this file and rename it to be config.yml and set the username/password
+##################
+
+neo4j:
+  username: cmclean
+  password: cmclean
+  host: nrg.inf.ed.ac.uk
+  ports:
+    bolt: 8687
+    http: 8474
