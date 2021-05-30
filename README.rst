@@ -1,5 +1,9 @@
 :: SIDB-network-service ::
 
+<p align="center">
+  <img src="image/SIDB\_neo4j\_final.png" hight="800" width="800" title="">
+</p>
+
  :: setup and build environment::
 We'll follow Owen's and Xin's Sargasso package to setup our environment:
 
