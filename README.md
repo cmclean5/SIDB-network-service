@@ -1,7 +1,7 @@
 # SIDB-network-service 
 
 <p align="center">
-  <img src="image/SIDBneo4j.png" hight="800" width="800" title="">
+  <img src="image/SIDBneo4j.png" hight="500" width="500" title="">
 </p>
 
  :: setup and build environment::
