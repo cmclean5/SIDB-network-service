@@ -1,10 +1,11 @@
 :: SIDB-network-service ::
 
-<p align="center">
+<!-- <p align="center"> -->
   <img src="image/SIDBneo4j.png" hight="800" width="800" title="">
-</p>
+<!-- </p> -->
 
- :: setup and build environment::
+:: setup and build environment ::
+
 We'll follow Owen's and Xin's Sargasso package to setup our environment:
 
 1) log onto the nrg server:
