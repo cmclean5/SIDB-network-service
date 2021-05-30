@@ -4,8 +4,10 @@
   <img src="image/SIDBneo4j.png" hight="500" width="500" title="">
 </p>
 
- :: setup and build environment::
-We'll follow Owen's and Xin's Sargasso package to setup our environment:
+ :: setup and build environment ::
+ 
+ 
+follow Sargasso package to setup our environment:
 
 1) log onto the nrg server:
 
