@@ -1,8 +1,7 @@
 :: SIDB-network-service ::
 
 <p align="center">
-  <img src="image/SIDB_neo4j_final.png" hight="800" width="800" title="figure 3">
-  <!-- <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text"> -->
+  <img src="image/SIDB_neo4j_final.png" hight="800" width="800" title="">
 </p>
 
  :: setup and build environment::
